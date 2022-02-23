@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @2Mw
 - 👀 I’m interested in R&D
-- 🌱 I’m currently learning Java Concurrency Development and Deep Learning.
+- 🌱 I’m currently learning server-end development and recommendation system.
 - 📫 How to reach me: By Github Issues.
